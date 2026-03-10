@@ -88,10 +88,11 @@ I'm a **B.Tech Computer Science student at VIT Chennai** ( Class of 2027), passi
 - Hybrid rule-based + AI scoring for improved recommendation relevance
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Saloni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salonisimlote&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=salonisimlote&theme=tokyonight&hide_border=true)
 
