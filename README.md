@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I'm a **B.Tech Computer Science student at VIT Chennai** (CGPA: 8.67 · Class of 2027), passionate about building intelligent systems at the intersection of **machine learning**, **generative AI**, and **full-stack engineering**.
+I'm a **B.Tech Computer Science student at VIT Chennai** ( Class of 2027), passionate about building intelligent systems at the intersection of **machine learning**, **generative AI**, and **full-stack engineering**.
 
 - 🤖 Interested in scalable AI platforms, search automation, and agentic workflows
 - 📍 Chennai, Tamil Nadu, India
